@@ -1,0 +1,4 @@
+return {
+    ["MXZ-UVB-DRC-KCG-XEF"] = os.time() + (60*60*24*7), -- expires in 7 days
+    ["ANOTHER-KEY-123"] = os.time() + (60*60*24*30),   -- expires in 30 days
+}
