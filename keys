@@ -1,4 +1,4 @@
 return {
-    ["MXZ-UVB-DRC-KCG-XEF"] = "2025-08-15",
-    ["MXZ-EZY-&Z#-QPS-?OE"] = "2025-08-20"
+    ["MXZ-TEST-123"] = os.time() + (60 * 60 * 24), -- 1 day from now
+    ["MXZ-TEST-999"] = os.time() + (60 * 60 * 24 * 7), -- 7 days from now
 }
